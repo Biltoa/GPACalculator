@@ -2,10 +2,10 @@ A GPA calculator application is implemented in Java using the concept of polymor
 
 Build Usage:
 
-Download Visual Studio Code
-Pull repository
-Install the required tools (Java coding pack, JDK)
-Run
+1. Download Visual Studio Code
+2. Pull repository
+3. Install the required tools (Java coding pack, JDK)
+4. Run
 
 *Demo image:
 
